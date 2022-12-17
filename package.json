@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "NPM basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svetlana210/goit-markup-hw-08.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svetlana210/goit-markup-hw-08/issues"
+  },
+  "homepage": "https://github.com/Svetlana210/goit-markup-hw-08#readme",
+  "keywords": [],
+  "dependencies": {
+    "joi": "^17.7.0"
+  }
+}
